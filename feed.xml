@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <rss version="2.0">
   <channel>
-    <title>CineStar Mostar (Mepas Mall)</title>
+    <title>CineStar Movies</title>
     <description>Cinestar - RSS</description>
     <lastBuildDate>Sun, 01 Oct 2023 12:06:26 GMT</lastBuildDate>
     <ttl>25</ttl>
@@ -36,6 +36,21 @@
   <trajanje>133</trajanje>
   <godina>2023</godina>
   <plakat>https://m.media-amazon.com/images/I/81gZGs7OMRL._AC_UF894,1000_QL80_.jpg</plakat>
+</item>
+
+<item>
+  <title>Mala sirena(sinkronizirano)</title>
+  <pubDate>Sat, 30 Sep 2023 22:00:00 GMT</pubDate>
+  <description>
+    <![CDATA[
+    Dugoočekivani i Oscarom nagrađeni glazbeni klasik studija Disney ove godine dolazi u igranoj verziji priče o djevojci iz mora koja zbog ljubavi odlučuje napustiti svoj bajkoviti podvodni svijet. Najmlađa kćer kralja Tritona, Ariel, žudi saznati više o svijetu s druge strane mora, a dok obilazi površinu, zaljubljuje se u poletnog princa Erica. Dok je sirenama zabranjeno komunicirati s ljudima, Ariel mora slijediti svoje srce. Sklapa dogovor sa zlom morskom vješticom Ursulom, što joj daje priliku da iskusi život na kopnu, ali naposljetku dovodi svoj život – i očevu krunu – u opasnost.
+    ]]>
+  </description>
+  <redatelj>Rob Marshall</redatelj>
+  <glumci>Lana Meniga, Mateja Majerle, Dino Jelusić, Martina Tomčić, Frano Mašković, Anja Šovagović Despot, Goran Grgić, Jan Kerekeš, Ruben Carović, Ana Maras Harmander</glumci>
+  <trajanje>135</trajanje>
+  <godina>2023</godina>
+  <plakat>https://m.media-amazon.com/images/I/810+3Zzj6EL.jpg</plakat>
 </item>
     
   </channel>
