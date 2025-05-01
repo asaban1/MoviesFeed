@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>CineStar Mostar (Mepas Mall)</title>
+    <description>Cinestar - RSS</description>
+    <lastBuildDate>Sun, 01 Oct 2023 12:06:26 GMT</lastBuildDate>
+    <ttl>25</ttl>
+
+    <item>
+      <title>3211</title>
+      <pubDate>Sat, 30 Sep 2023 22:00:00 GMT</pubDate>
+      <description>
+        <![CDATA[
+        Film “3211” je istinita priča o Stefanu Đuriću, uspješnom muzičaru koji jednog dana gubi sve i odlazi u zatvor gdje od njegovog ranijeg života ostaju samo njegove pjesme. Ovo je priča o pravdi, otuđenosti, prepoznavanju životnih prioriteta, o životnoj snazi koja prevazilazi sve prepreke i žudnji za slobodom koja je iznad svega, ali najprije se izdvaja po tome što Rasta kroz ovu situaciju proživljava suočavanje sa vlastitim radom, svojim pjesmama i načinom na koje one obogaćuju život njihovih slušalaca. Film "3211" prikazuje jedno transformativno iskustvo koje je dinamično, traumatično i zaključuje se iskupljenjem i jednom izoštrenom slikom svijeta.
+        ]]>
+      </description>
+      <redatelj>Danilo Bećković i Andrijana Stojković</redatelj>
+      <glumci>
+        Stefan Đurić Rasta, Radomir Rale Milenković, Goran Sultanović, Slaviša Čurović, Milan Čučilović
+      </glumci>
+      <trajanje>70</trajanje>
+      <godina>2023</godina>
+      <plakat>https://www.blitz-cinestar-bh.ba/UserDocsImages/Plakats/4.9.2023_11_17_15_3211_BiH.jpg</plakat>
+    </item>
+
+  </channel>
+</rss>
