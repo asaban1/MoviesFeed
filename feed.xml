@@ -2,8 +2,8 @@
 <rss version="2.0">
   <channel>
     <title>CineStar Movies</title>
-    <description>Cinestar - RSS</description>
-    <lastBuildDate>Sun, 01 Oct 2023 12:06:26 GMT</lastBuildDate>
+    <description>MoviesRSS</description>
+    <lastBuildDate>Sat, 03 May 2025 17:47:26 GMT</lastBuildDate>
     <ttl>25</ttl>
 
     <item>
@@ -97,5 +97,22 @@
   <plakat>https://m.media-amazon.com/images/I/71f23S7MW6L.jpg</plakat>
 </item>
 
+<item>
+  <title>Plaćenici 4</title>
+  <pubDate>Sat, 30 Sep 2023 22:00:00 GMT</pubDate>
+  <description>
+    <![CDATA[
+    Filmska hit franšiza s najviše glumačkih zvijezda u povijesti! Plaćenici se vraćaju na velika platna u svom četvrtom izdanju i ponovo predstavljaju najveća imena glumačke akcijske scene. Jason Statham, Andy Garcia, Sylvester Stallone i Dolph Lundgren donose vam novu dozu akcije, uz pridružene članove Megan Fox, 50 Centa i mnoge druge. Ono što je počelo prije 11 godina konačno se završava. Nepobjedivi veteran plaćenik Barney Ross i njegova ekipa vraćaju se za četvrti nastavak franšize. Ross i njegova plaćenička banda suočit će se s trgovcem oružja koji upravlja snagom goleme privatne vojske.
+    ]]>
+  </description>
+  <redatelj>Scott Waugh</redatelj>
+  <glumci>
+    Jason Statham, Curtis "50 Cent" Jackson, Megan Fox, Andy Garcia, Sylvester Stallone, Dolph Lundgren
+  </glumci>
+  <trajanje>103</trajanje>
+  <godina>2023</godina>
+  <plakat>https://m.media-amazon.com/images/M/MV5BZjgyMmRmM2EtYWY5ZC00ZTllLWJhM2QtMGRlNGEzMWEzYzllXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg</plakat>
+</item>
+    
   </channel>
 </rss>
