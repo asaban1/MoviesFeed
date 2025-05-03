@@ -1,9 +1,9 @@
 <?xml version="1.0"?>
 <rss version="2.0">
   <channel>
-    <title>CineStar Movies</title>
+    <title>Movies</title>
     <description>MoviesRSS</description>
-    <lastBuildDate>Sat, 03 May 2025 17:47:26 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 03 May 2025 17:53:30 GMT</lastBuildDate>
     <ttl>25</ttl>
 
     <item>
@@ -114,5 +114,22 @@
   <plakat>https://m.media-amazon.com/images/M/MV5BZjgyMmRmM2EtYWY5ZC00ZTllLWJhM2QtMGRlNGEzMWEzYzllXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg</plakat>
 </item>
     
+    <item>
+  <title>Poslije svega: Finale</title>
+  <pubDate>Sat, 30 Sep 2023 22:00:00 GMT</pubDate>
+  <description>
+    <![CDATA[
+    Veliko finale ljubavnog serijala koji je očarao milijune! Njihova veza zauvijek ih je promijenila. Je li i ljubav nestala? Peti i posljednji nastavak svjetskog fenomena otkriva kako Tessa i Hardin žive odvojene živote, nakon što je Hardin objavio svoju knjigu bez njezina znanja. Sam u Engleskoj, Hardin se odaje alkoholu i drugim štetnim navikama. Da stvari budu još gore, ima spisateljsku blokadu i možda će morati vratiti popriličan predujam koji je dobio za novu knjigu ako je uskoro ne završi. Suočen sa svojim demonima, Hardin počinje shvaćati da je jedini način na koji može krenuti naprijed i dobiti novu šansu da ponovno pridobije Tessu, taj da ispravi nepravde učinjene u prošlosti. Od njihova prvog susreta, Tessi i Hardinu život se pretvorio u vrtlog strasti, ljubavi i dramatičnih preokreta. Tvrdoglavo su se borili za ljubav, odbijajući poslušati čak i najdobronamjernije savjete, uvjereni da njihova ljubav ne priznaje nikakve granice. Cijena je, ipak, bila velika.
+    ]]>
+  </description>
+  <redatelj>Castille Landon</redatelj>
+  <glumci>
+    Hero Fiennes Tiffin, Josephine Langford, Mimi Keene, Stephen Moyer, Louise Lombard, Benjamin Mascolo
+  </glumci>
+  <trajanje>94</trajanje>
+  <godina>2023</godina>
+  <plakat>https://m.media-amazon.com/images/S/pv-target-images/058b2282576fc8e8337b5765b432ac0fde8dfbad550f86da433a128054e6f94f.jpg</plakat>
+</item>
+
   </channel>
 </rss>
