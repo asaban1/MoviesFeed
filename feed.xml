@@ -3,8 +3,8 @@
   <channel>
     <title>Movies</title>
     <description>MoviesRSS</description>
-    <lastBuildDate>Sat, 03 May 2025 17:53:30 GMT</lastBuildDate>
-    <ttl>25</ttl>
+    <lastBuildDate>Sat, 03 May 2025 20:23:20 GMT</lastBuildDate>
+    <ttl>14</ttl>
 
     <item>
       <title>3211</title>
@@ -15,9 +15,7 @@
         ]]>
       </description>
       <redatelj>Danilo Bećković i Andrijana Stojković</redatelj>
-      <glumci>
-        Stefan Đurić Rasta, Radomir Rale Milenković, Goran Sultanović, Slaviša Čurović, Milan Čučilović
-      </glumci>
+      <glumci>Stefan Đurić Rasta, Radomir Rale Milenković, Goran Sultanović, Slaviša Čurović, Milan Čučilović</glumci>
       <trajanje>70</trajanje>
       <godina>2023</godina>
 <plakat>https://m.media-amazon.com/images/M/MV5BZjc0YWY5NzItMGY4Mi00YWYyLWEwODEtYzg1MjViY2NhOWU4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg</plakat>
@@ -39,7 +37,7 @@
 </item>
 
 <item>
-  <title>Mala sirena(sinkronizirano)</title>
+  <title>Mala sirena</title>
   <pubDate>Sat, 30 Sep 2023 22:00:00 GMT</pubDate>
   <description>
     <![CDATA[
@@ -47,14 +45,14 @@
     ]]>
   </description>
   <redatelj>Rob Marshall</redatelj>
-  <glumci>Lana Meniga, Mateja Majerle, Dino Jelusić, Martina Tomčić, Frano Mašković, Anja Šovagović Despot, Goran Grgić, Jan Kerekeš, Ruben Carović, Ana Maras Harmander</glumci>
+  <glumci>Halle Bailey, Jonah Hauer-King, Melissa McCarthy, Jessica Alexander, Javier Bardem, Noma Dumezweni, Art Malik, Daveed Diggs, Jacob Tremblay, Awkwafina</glumci>
   <trajanje>135</trajanje>
   <godina>2023</godina>
   <plakat>https://m.media-amazon.com/images/I/810+3Zzj6EL.jpg</plakat>
 </item>
 
     <item>
-  <title>Mia i ja: Film(sinkronizirano)</title>
+  <title>Mia i ja: Film</title>
   <pubDate>Sat, 30 Sep 2023 22:00:00 GMT</pubDate>
   <description>
     <![CDATA[
@@ -62,13 +60,14 @@
     ]]>
   </description>
   <redatelj>Adam Gunn</redatelj>
+  <glumci>Gedeon Burkhard, Julian Maroun, Bettina Kenney, Rick Kavanian, Francois Goeske, Margot Nuccetelli, Nils Nellessen, Santiago Ziesmer, Grant Lyndon</glumci>
   <trajanje>85</trajanje>
   <godina>2022</godina>
   <plakat>https://m.media-amazon.com/images/S/pv-target-images/69f6358cdbeef4f3cfb99e3bc64f834ec14e308b968e3c62258b013752effcce.jpg</plakat>
 </item>
 
     <item>
-  <title>Nikica: Kako je sve počelo(sinkronizirano)</title>
+  <title>Nikica: Kako je sve počelo</title>
   <pubDate>Sat, 30 Sep 2023 22:00:00 GMT</pubDate>
   <description>
     <![CDATA[
@@ -76,22 +75,22 @@
     ]]>
   </description>
   <redatelj>Amandine Fredon, Benjamin Massoubre</redatelj>
-  <glumci></glumci>
+  <glumci>Alain Chabat, Laurent Lafitte, Simon Faliu</glumci>
   <trajanje>85</trajanje>
   <godina>2022</godina>
   <plakat>https://m.media-amazon.com/images/S/pv-target-images/9ecdadb2e0eb4c324c254e46ff7f843d29bef56ea22c016f14cac8a94abfeff4.jpg</plakat>
 </item>
 
 <item>
-  <title>Patrolne šape: Moćni - sink</title>
+  <title>Psići u ophodnji: Moćni</title>
   <pubDate>Sat, 30 Sep 2023 22:00:00 GMT</pubDate>
   <description>
     <![CDATA[
-    Kada se magični meteor spusti u Grad pustolovina, PATROLNE ŠAPE dobijaju supermoći i postaju MOĆNE KUCE! Za Skaj, koja je najmanja u njihovom timu, nove moći su ostvarenje snova. Ali, stvari će postati loše kada Hamdinger, njihov najveći neprijatelj, pobjegne iz zatvora i udruži se sa ludom naučnicom, kako bi ukrao supermoći za dva zlikovca. Dok sudbina Grada pustolovina visi o koncu, Moćne Kuce moraju da zaustave zlikovce prije nego što postane kasno, a Skaj će morati da nauči da čak i oni najmanji mogu da naprave najveću promjenu.
+    Kada se magični meteor spusti u Grad pustolovina, PSIĆI U OPHODNJI dobijaju supermoći i postaju MOĆNE KUCE! Za Skaj, koja je najmanja u njihovom timu, nove moći su ostvarenje snova. Ali, stvari će postati loše kada Hamdinger, njihov najveći neprijatelj, pobjegne iz zatvora i udruži se sa ludom naučnicom, kako bi ukrao supermoći za dva zlikovca. Dok sudbina Grada pustolovina visi o koncu, Moćne Kuce moraju da zaustave zlikovce prije nego što postane kasno, a Skaj će morati da nauči da čak i oni najmanji mogu da naprave najveću promjenu.
     ]]>
   </description>
   <redatelj>Cal Brunker</redatelj>
-  <glumci></glumci>
+  <glumci>Mckenna Grace, Taraji P. Henson, Christian Convery, Marsai Martin, Alan Kim, Brice Gonzalez, North West, Lil Rel Howery</glumci>
   <trajanje>94</trajanje>
   <godina>2023</godina>
   <plakat>https://m.media-amazon.com/images/I/71f23S7MW6L.jpg</plakat>
@@ -106,9 +105,7 @@
     ]]>
   </description>
   <redatelj>Scott Waugh</redatelj>
-  <glumci>
-    Jason Statham, Curtis "50 Cent" Jackson, Megan Fox, Andy Garcia, Sylvester Stallone, Dolph Lundgren
-  </glumci>
+  <glumci>Jason Statham, Curtis "50 Cent" Jackson, Megan Fox, Andy Garcia, Sylvester Stallone, Dolph Lundgren</glumci>
   <trajanje>103</trajanje>
   <godina>2023</godina>
   <plakat>https://m.media-amazon.com/images/M/MV5BZjgyMmRmM2EtYWY5ZC00ZTllLWJhM2QtMGRlNGEzMWEzYzllXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg</plakat>
@@ -123,13 +120,101 @@
     ]]>
   </description>
   <redatelj>Castille Landon</redatelj>
-  <glumci>
-    Hero Fiennes Tiffin, Josephine Langford, Mimi Keene, Stephen Moyer, Louise Lombard, Benjamin Mascolo
-  </glumci>
+  <glumci>Hero Fiennes Tiffin, Josephine Langford, Mimi Keene, Stephen Moyer, Louise Lombard, Benjamin Mascolo</glumci>
   <trajanje>94</trajanje>
   <godina>2023</godina>
   <plakat>https://m.media-amazon.com/images/S/pv-target-images/058b2282576fc8e8337b5765b432ac0fde8dfbad550f86da433a128054e6f94f.jpg</plakat>
 </item>
+    
+    <item>
+  <title>Pravednik 3: Konačno poglavlje</title>
+  <pubDate>Sat, 30 Sep 2023 22:00:00 GMT</pubDate>
+  <description>
+    <![CDATA[
+    Nakon što se umirovio s pozicije vladinog hitmana, Robert McCall (Denzel Washington) pokušava pronaći utjehu u pronalasku pravde za sve potlačene. Robert se u finalnom nastavku filma nalazi u južnoj Italiji gdje pokušava okrenuti leđa svojoj prošlosti, no kad shvati da su ljudi s kojima se tamo zbližio pod jarmom lokalnog mafijaša, McCall zna što mora učiniti pod svaku cijenu – spriječiti mafiju i spasiti svoje prijatelje.
+    ]]>
+  </description>
+  <redatelj>Antoine Fuqua</redatelj>
+  <glumci>Denzel Washington, Dakota Fanning, David Denman, Sonia Ammar</glumci>
+  <trajanje>109</trajanje>
+  <godina>2023</godina>
+  <plakat>https://m.media-amazon.com/images/S/pv-target-images/45f243002243cd531255bcc5dc72e2009fad9cb379bc39e70df09e66e929bf73.jpg</plakat>
+</item>
 
+    <item>
+  <title>Richard Roda 2</title>
+  <pubDate>Sat, 30 Sep 2023 22:00:00 GMT</pubDate>
+  <description>
+    <![CDATA[
+    Uživajući u zimovanju na velikom jezeru u Sjevernoj Africi, Richard saznaje da ovaj put neće dobiti tako časnu i odgovornu misiju kao vođenje jata roda kući na sjever. Ne želeći se pomiriti s tim, on odlazi na samostalno putovanje puno opasnosti i avantura. Na putu, Richard će morati susresti jato vrabaca u nevolji, zarobljeno zlim marabu pticama koje predvodi pohlepni paun Zamano. Da bi stekli slobodu, ptice će se morati ujediniti u prijateljski tim, pokazati hrabrost, snalažljivost i domišljatost kako bi riješile zagonetku i pronašle tajanstveno blago sa draguljima.
+    ]]>
+  </description>
+  <redatelj>Benjamin Quabeck, Mette Tange</redatelj>
+  <glumci>Jay Myers, Kyra Jackson, Simona Berman, Blake Farha, Jeffry Hylton, Tim Heller, Jonathan Failla</glumci>
+  <trajanje>84</trajanje>
+  <godina>2023</godina>
+  <plakat>https://m.media-amazon.com/images/S/pv-target-images/563ac23c1bd58a4e0b9bcfc4e56170eecbd5799bc5de56a539b5e412dfdca456.jpg</plakat>
+</item>
+
+<item>
+  <title>Rubi tinejdžerka: Morsko čudovište</title>
+  <pubDate>Sat, 30 Sep 2023 22:00:00 GMT</pubDate>
+  <description>
+    <![CDATA[
+    Ponekad se heroj, koji vam je suđeno da budete, nalazi odmah ispod površine. DreamWorks Animation predstavlja urnebesnu, iskrenu akcionu komediju o stidljivoj tinejdžerki Ruby koja otkriva da je dio legendarne kraljevske loze mitskih morskih čudovišta. Kada prekrši glavno mamino pravilo i uđe u vodu, Ruby će saznati da je potomak ratnice Krakena i da je predodređena da naslijedi tron svoje bake, Kraljice-ratnice od Sedam Mora. Da bi zaštitila one koje voli, Ruby će morati da prihvati ono što jeste.
+    ]]>
+  </description>
+  <redatelj>Kirk DeMicco</redatelj>
+  <glumci>Lana Condor, Toni Collete, Annie Murphy, Colman Domingo, Blue Chapman, Jane Fonda, Sam Richardson, Will Forte</glumci>
+  <trajanje>91</trajanje>
+  <godina>2023</godina>
+  <plakat>https://m.media-amazon.com/images/S/pv-target-images/93013b015762c835053eda28659c3e8dbfa0fd0ba1671f67f7bd61945231dde7.jpg</plakat>
+</item>
+
+    <item>
+  <title>Slagalica strave X</title>
+  <pubDate>Sat, 30 Sep 2023 22:00:00 GMT</pubDate>
+  <description>
+    <![CDATA[
+    Kultni horor serijal SAW vraća se s najuzbudljivijim i najosobnijim nastavkom do sada. John Kramer, suočen s teškom bolešću, odlazi u Meksiko tražeći čudesni lijek, ali otkriva da je sve bila prevara. U svojoj potrazi za osvetom, vraća se svojim poznatim metodama i pokreće novu smrtonosnu igru kako bi kaznio prevarante koristeći brutalne i inteligentno osmišljene zamke.
+    ]]>
+  </description>
+  <redatelj>Kevin Greutert</redatelj>
+  <glumci>Tobin Bell, Shawnee Smith, Michael Beach, Steven Brand</glumci>
+  <trajanje>118</trajanje>
+  <godina>2023</godina>
+  <plakathttps://m.media-amazon.com/images/I/81BoeL6fVlL._AC_UF1000,1000_QL80_.jpg</plakat>
+</item>
+
+<item>
+  <title>Ubojstvo u Veneciji</title>
+  <pubDate>Sat, 30 Sep 2023 22:00:00 GMT</pubDate>
+  <description>
+    <![CDATA[
+    Kenneth Branagh se vraća kao poznati detektiv Hercule Poirot u mračnoj i napetoj krimi drami. Povučeni Poirot protiv svoje volje prisustvuje seansi u ukletoj venecijanskoj palači, ali kada jedan od gostiju bude ubijen, on je prisiljen napustiti mirovinu i ponovno se suočiti s misterijom punom duhova, tajni i obmana.
+    ]]>
+  </description>
+  <redatelj>Kenneth Branagh</redatelj>
+  <glumci>Kenneth Branagh, Kyle Allen, Camille Cottin, Jamie Dornan, Tina Fey, Jude Hill, Ali Khan, Emma Laird, Kelly Reilly, Riccardo Scamarcio, Michelle Yeoh</glumci>
+  <trajanje>103</trajanje>
+  <godina>2023</godina>
+  <plakat>https://m.media-amazon.com/images/I/71wzxkRgu5L.jpg</plakat>
+</item>
+
+<item>
+  <title>Zvuk slobode</title>
+  <pubDate>Sat, 30 Sep 2023 22:00:00 GMT</pubDate>
+  <description>
+    <![CDATA[
+    Potresna istinita priča o Timothyju Ballardu, bivšem agentu američkog Ministarstva domovinske sigurnosti, koji napušta posao kako bi krenuo u opasnu misiju spašavanja djece iz lanca trgovine ljudima u Kolumbiji. Film koji je postao senzacija u američkim kinima, nadmašivši po gledanosti i velike blockbustere.
+    ]]>
+  </description>
+  <redatelj>Alejandro Monteverde</redatelj>
+  <glumci>Jim Caviezel, Mira Sorvino, Bill Camp</glumci>
+  <trajanje>131</trajanje>
+  <godina>2023</godina>
+  <plakat>https://m.media-amazon.com/images/S/pv-target-images/1b503af3ec4b475c1a1cffe8052f83af1c98068b657296f462c489682b1a8cd5.jpg</plakat>
+</item>
+    
   </channel>
 </rss>
