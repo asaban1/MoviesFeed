@@ -3,7 +3,7 @@
   <channel>
     <title>Movies</title>
     <description>MoviesRSS</description>
-    <lastBuildDate>Sat, 03 May 2025 20:23:20 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 03 May 2025 20:26:20 GMT</lastBuildDate>
     <ttl>14</ttl>
 
     <item>
@@ -183,7 +183,7 @@
   <glumci>Tobin Bell, Shawnee Smith, Michael Beach, Steven Brand</glumci>
   <trajanje>118</trajanje>
   <godina>2023</godina>
-  <plakathttps://m.media-amazon.com/images/I/81BoeL6fVlL._AC_UF1000,1000_QL80_.jpg</plakat>
+  <plakat>https://m.media-amazon.com/images/I/81BoeL6fVlL._AC_UF1000,1000_QL80_.jpg</plakat>
 </item>
 
 <item>
